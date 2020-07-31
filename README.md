@@ -1,4 +1,4 @@
-## Math for Data Algorithms
+# "Math for Data" Algorithms
 Various python implementations of algorithms including Gradient Descent, SVD, PCA, various types of regressions, and more.  
 Also includes some visualization code.  
 
